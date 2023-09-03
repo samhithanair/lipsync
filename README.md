@@ -6,7 +6,7 @@ In this project, I had used the concept of Wav2Lip to create a model that would 
  Before running the model, I cloned the Wav2Lip git and installed the requirements as per the text file given. I had also installed the necessary libraries and imported them.
 
 ## Language
-Python, HTML
+Python - Google Colab
 
 ## Overview
 Three classes were created - one to upload video, one to upload audio and one to render the result clip. 
