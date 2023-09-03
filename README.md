@@ -1,4 +1,5 @@
 # Lipsync Project 
+#### By Samhitha Nair
 In this project, I had used the concept of Wav2Lip to create a model that would overlay Hindi audio onto a video that originally had Telugu audio. The lips movements of the subject should also match the audio at the correct time. 
 
 ## Pre-requisites
