@@ -19,7 +19,7 @@ Later in the future, I plan on incorporating a face recognition model to detect 
 * Upload the video required using the ```video.uploadVideo()``` block
 * Upload the audio required using the ```audio.uploadAudio()``` block
 * Render the final video by running the ```render.output()``` block
-* Download each clip and input then into the last code block to get the final result
+* Download each clip and input them into the last code block to get the final result
 
 ## License
 Distributed under the MIT License. See ```LICENSE.txt``` for more information.
